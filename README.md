@@ -1,2 +1,3 @@
 # introtosoftwaredev2
 Repository for the Introduction to Software Development Assignment 2
+The prototype I decided to focus on was the Network Monitoring Tool due to its critical role in identifying malicious network activity and diagnosing issues with the network. Network monitoring is vital to network security and is very relevant to my chosen pathway. This tool collects and analyses raw packet data to reveal source and destination IPs and presents them graphically. This tool enables better integration into complex technological environments, and better security allowing for more regulatory compliance.
